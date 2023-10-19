@@ -24,17 +24,17 @@ D. Covid report
 11.	Corona positive or negative --- categorical
 
 Files Description:
-1. ### covid_detection.xlsx: 
+ ### 1. covid_detection.xlsx: 
 It an excel file which contains 278848 patient records which above columns. It is out dataset. This Dataset was provided by odin School, Hyderabad,India.
 
-2. ### covid_detection.ipynb :
+### 2. covid_detection.ipynb :
 It is a jupyter file which contains python code for EDA, Data cleaning, Data Transformation and ML model generation code.
 
-3. ### Prediction of covid19 documentation.pdf 
+### 3. Prediction of covid19 documentation.pdf 
 It is a pdf file which contains complete documentation about the project.
 
-4. ### covid-detection-sql-queries.sql:
+ ### 4.covid-detection-sql-queries.sql:
 It is a sql file which contains few sql queries and we can cross check these results with powerbi results.
 
-5. ### covid_dashboard.pbix:
+ ### 5.covid_dashboard.pbix:
 It is a powerBI file which contains dynamic dashboards of the above dataset.
