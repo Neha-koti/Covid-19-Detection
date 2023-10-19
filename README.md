@@ -24,7 +24,7 @@ D. Covid report
 11.	Corona positive or negative --- categorical
 
 Files Description:
- ### 1. covid_detection.scv: 
+ ### 1. covid_detection.csv: 
 It a csv file which contains 278848 patient records which above columns. It is out dataset. This Dataset was provided by odin School, Hyderabad,India.
 
 ### 2. covid_detection.ipynb :
